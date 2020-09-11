@@ -40,5 +40,5 @@ public class Chapter06_Homework20 {
 		else 
 			return 2;
 	}
-}
+
 }
